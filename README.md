@@ -29,7 +29,7 @@ var result = spellCheckProvider.CheckSpelling("Spelling mispake.", 0, new List<S
 
 See the unit tests (of which there is never enough) for some more examples of usage.
 
-The Queens English
+The Queen's English
 ---
 
 Down with words like *Color*. Be proud of the firm tradition of excellence in language, don't let those heathen on the other side of the Atlantic destroy a beautiful thing.

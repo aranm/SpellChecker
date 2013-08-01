@@ -46,7 +46,7 @@
     <Compile Include="DispatcherExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QueuedSpellChecker.cs" />
-    <Compile Include="SpellChecker.cs" />
+    <Compile Include="SpellCheckProvider.cs" />
     <Compile Include="SpellCheckTextBox.cs" />
     <Compile Include="SpellingError.cs" />
   </ItemGroup>
